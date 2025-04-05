@@ -1,4 +1,4 @@
-The repo will contain the Cloud and devops related interview questions from basic to advance level.
-We are also including the scenerio based questions.
-Linux, Git, Azure infra, Azure Devops, k8, Docker, Terraform are the main topics.
-#We are happy if someone wants to contribute to the repository 
+This repository includes a comprehensive collection of Cloud and DevOps interview questions, ranging from basic to advanced levels.
+It also features scenario-based questions to help with real-world preparation. 
+Key focus areas include Linux, Git, Azure Infrastructure, Azure DevOps, Kubernetes, Docker, and Terraform.
+We welcome contributions from the community and would be glad to collaborate with those interested in enhancing this repository.
